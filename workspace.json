@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "codepad-client": "apps/codepad-client",
+    "codepad-client-e2e": "apps/codepad-client-e2e"
+  }
+}
