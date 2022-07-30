@@ -8,7 +8,8 @@ function CustomApp({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <meta name="viewport" content="initial-scale=1, width=device-width" />
-        <title>Welcome to codepad-client!</title>
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <title>Welcome to Codepad</title>
       </Head>
       <main className="app">
         <CssBaseline />
